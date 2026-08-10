@@ -23,23 +23,6 @@ sudo cp target/release/pacpeek /usr/local/bin/
 
 ```
 $ pacpeek firefox
-_________________________________
-NAME: firefox
-VERSION: 152.0.6-1
-BASE: firefox
-DESC: Fast, Private & Safe Web Browser
-URL: https://www.mozilla.org/firefox/
-ARCH: x86_64
-BUILDDATE: 2026-07-14
-INSTALLDATE: 2026-07-15
-PACKAGER: Christian Hesse <eworm@archlinux.org>
-SIZE: 286.5 MB
-LICENSE: MPL-2.0
-VALIDATION: pgp
-DEPENDS: alsa-lib
-OPTDEPENDS: hunspell-en_US: Spell checking, American English
-XDATA: pkgtype=pkg
-_________________________________
 ```
 
 ## Why?
